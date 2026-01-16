@@ -1,2 +1,1 @@
-# Evolution of Todo
-Spec-Driven Todo Application
+# Evolution of Todo-App
