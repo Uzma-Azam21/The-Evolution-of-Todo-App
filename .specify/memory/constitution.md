@@ -1,4 +1,4 @@
-# Project: Evolution of Todo – Spec-Driven, AI-Native System**
+# Project: Evolution of Todo – Spec-Driven, AI-Native Syste
 
 **Core principles:**
 - Specification precedes planning and implementation
